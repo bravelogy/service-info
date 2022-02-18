@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.2</version>
+    <title>Bravelogy.Common.ServiceInfo</title>
+    <authors>Jarek Machaj</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/bravelogy/service-info</projectUrl>
+    <iconUrl>https://jarek.net/bravelogy.png</iconUrl>
+    <description>Service middleware</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Bravelogy</copyright>
+    <tags>microservices bravelogy</tags>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using System;
+using System.Threading.Tasks;
+
+
+namespace Bravelogy.Common.ServiceInfo
+{
+    public static class ServiceInfoExtensions
+    {
+        public static IApplicationBuilder UseServiceInfo(
+            this IApplicationBuilder builder)
+        {
+            return builder.UseMiddleware<ServiceInfoMiddleware>();
+        }
+    }
+}

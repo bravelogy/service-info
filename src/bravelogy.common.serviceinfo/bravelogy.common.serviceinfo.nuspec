@@ -2,13 +2,14 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <title>Bravelogy.Common.ServiceInfo</title>
     <authors>Jarek Machaj</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/bravelogy/service-info</projectUrl>
     <iconUrl>https://jarek.net/bravelogy.png</iconUrl>
+    <repository type="git" url="https://github.com/bravelogy/service-info.git" />
     <description>Service middleware</description>
     <releaseNotes>Initial release</releaseNotes>
     <copyright>Bravelogy</copyright>

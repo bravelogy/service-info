@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Bravelogy.Common.ServiceInfo</PackageId>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Jarek Machaj</Authors>
     <Company>bravelogy</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
